@@ -41,7 +41,7 @@ In Pakistan, peer-to-peer payments via **Easypaisa**, **JazzCash**, and **UBL Di
 
 Victims lose money. Sellers ship goods they were never paid for. Manual verification is slow, inconsistent, and trivially fooled by a careful edit.
 
-**Fake Detect** eliminates this attack surface. It runs nine independent forensic signals across every uploaded screenshot — image compression artifacts, noise patterns, clone detection, frequency-domain analysis, OCR text validation, and real-time timestamp verification — and fuses them into a single weighted confidence score with a `REAL` or `FAKE` verdict in under two seconds.
+**Fake Detect** eliminates this attack surface. It runs nine independent forensic signals across every uploaded screenshot image compression artifacts, noise patterns, clone detection, frequency-domain analysis, OCR text validation, and real-time timestamp verification and fuses them into a single weighted confidence score with a `REAL` or `FAKE` verdict in under two seconds.
 
 ---
 
